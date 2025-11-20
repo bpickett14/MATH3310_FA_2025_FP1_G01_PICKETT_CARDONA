@@ -7,3 +7,4 @@ matplotlib.pyplot
 seaborn
 numpy
 scikit-learn
+imbalanced-learn
