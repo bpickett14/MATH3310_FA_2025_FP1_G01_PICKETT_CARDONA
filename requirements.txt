@@ -3,3 +3,7 @@ python-dotenv
 ruff
 -e .
 pandas
+matplotlib.pyplot
+seaborn
+numpy
+scikit-learn
